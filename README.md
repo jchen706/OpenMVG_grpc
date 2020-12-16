@@ -3,7 +3,7 @@
 
 Features: 
 
-- Working MetaData AsyncBidirectional Streaming between client and server. 
+- Working AsyncBidirectional Streaming Data between client and server. 
 
 Todo: 
 
