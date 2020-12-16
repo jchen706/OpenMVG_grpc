@@ -9,8 +9,12 @@ Features:
 
 Todo: 
 
--  
--
+-  Unary Streams 
+-  File Sents 
+-  Library functions for the computing
+
+
+
 
 
 To run: 
