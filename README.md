@@ -1,6 +1,8 @@
 # OpenMVG_grpc
 
 
+Directory Working on is grpcsrc.
+
 Features: 
 
 - Working AsyncBidirectional Streaming Data between client and server. 
